@@ -42,16 +42,15 @@
 
 <p></p>
   
-  <a  href="https://akashkumar-0.github.io/Figma-Project/">
-  <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=Figma-Project" />
+  <a  href="https://github.com/sakshi12344/figma-design">
+  <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sakshi12344&theme=rose_pine&repo=Figma-Project" />
 </a>
 
 
-<a   href="https://github.com/AkashKumar-0/fbClone.github.io">
-  <img width="30%"  src="https://github-readme-stats.vercel.app/api/pin/?username=AkashKumar-0&theme=rose_pine&repo=fbClone.github.io" />
+<a   href="https://github.com/sakshi12344/facebook-Clone">
+  <img width="30%"  src="https://github-readme-stats.vercel.app/api/pin/?username=sakshi12344&theme=rose_pine&repo=fbClone.github.io" />
 </a>
-  
-  <p></p>
+<p></p>
  
 
 
