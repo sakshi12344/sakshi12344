@@ -38,19 +38,6 @@
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=sakshi12344&theme=rose_pine&show_icons=true" />
 <img width="47%"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi12344&theme=rose_pine&layout=compact" />
 
-<h3 align="center">Projects :</h3>
-
-<p></p>
-  
-  <a  href="https://github.com/sakshi12344/figma-design">
-  <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sakshi12344&theme=rose_pine&repo=Figma-Project" />
-</a>
-
-
-<a   href="https://github.com/sakshi12344/facebook-Clone">
-  <img width="30%"  src="https://github-readme-stats.vercel.app/api/pin/?username=sakshi12344&theme=rose_pine&repo=fbClone.github.io" />
-</a>
-<p></p>
  
 
 
