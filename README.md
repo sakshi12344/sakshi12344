@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **Google Cloud**
+- 🌱 I’m currently learning **Data analyst**
 
 - 🌍 I Love ** Travelling **
 
