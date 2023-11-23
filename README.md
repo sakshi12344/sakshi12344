@@ -13,7 +13,7 @@
 
 - 🌍 I Love ** Travelling **
 
-- 💬 Ask me about **Cloud Stuff**
+- 💬 Ask me about **data science stuff**
 
 
 <h3 >Connect with me:</h3>
